@@ -1,0 +1,6 @@
+D:\HK1_Năm4\.NET_framework\GMS\DAL_GMS\bin\Debug\DAL_GMS.dll
+D:\HK1_Năm4\.NET_framework\GMS\DAL_GMS\bin\Debug\DAL_GMS.pdb
+D:\HK1_Năm4\.NET_framework\GMS\DAL_GMS\obj\Debug\DAL_GMS.csproj.AssemblyReference.cache
+D:\HK1_Năm4\.NET_framework\GMS\DAL_GMS\obj\Debug\DAL_GMS.csproj.CoreCompileInputs.cache
+D:\HK1_Năm4\.NET_framework\GMS\DAL_GMS\obj\Debug\DAL_GMS.dll
+D:\HK1_Năm4\.NET_framework\GMS\DAL_GMS\obj\Debug\DAL_GMS.pdb

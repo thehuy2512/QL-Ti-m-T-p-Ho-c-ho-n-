@@ -1,0 +1,9 @@
+D:\HK1_Năm4\.NET_framework\GMS\BUS_GMS\bin\Debug\BUS_GMS.dll
+D:\HK1_Năm4\.NET_framework\GMS\BUS_GMS\bin\Debug\BUS_GMS.pdb
+D:\HK1_Năm4\.NET_framework\GMS\BUS_GMS\bin\Debug\DAL_GMS.dll
+D:\HK1_Năm4\.NET_framework\GMS\BUS_GMS\bin\Debug\DAL_GMS.pdb
+D:\HK1_Năm4\.NET_framework\GMS\BUS_GMS\obj\Debug\BUS_GMS.csproj.AssemblyReference.cache
+D:\HK1_Năm4\.NET_framework\GMS\BUS_GMS\obj\Debug\BUS_GMS.csproj.CoreCompileInputs.cache
+D:\HK1_Năm4\.NET_framework\GMS\BUS_GMS\obj\Debug\BUS_GMS.csproj.CopyComplete
+D:\HK1_Năm4\.NET_framework\GMS\BUS_GMS\obj\Debug\BUS_GMS.dll
+D:\HK1_Năm4\.NET_framework\GMS\BUS_GMS\obj\Debug\BUS_GMS.pdb
